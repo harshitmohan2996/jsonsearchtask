@@ -21,11 +21,6 @@ type allManager []manager
 
 var managers = allManager{
 	{
-		ID:    "1",
-		Fname: "Harshit",
-		Lname: "Mohan",
-	},
-	{
 		ID:    "2",
 		Fname: "Unnati",
 		Lname: "Kala",
